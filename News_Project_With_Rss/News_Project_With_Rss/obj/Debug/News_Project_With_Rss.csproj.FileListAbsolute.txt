@@ -1,0 +1,10 @@
+C:\Users\Ozlem\source\News_Project_With_Rss\News_Project_With_Rss\bin\Debug\News_Project_With_Rss.exe.config
+C:\Users\Ozlem\source\News_Project_With_Rss\News_Project_With_Rss\bin\Debug\News_Project_With_Rss.exe
+C:\Users\Ozlem\source\News_Project_With_Rss\News_Project_With_Rss\bin\Debug\News_Project_With_Rss.pdb
+C:\Users\Ozlem\source\News_Project_With_Rss\News_Project_With_Rss\obj\Debug\News_Project_With_Rss.csproj.AssemblyReference.cache
+C:\Users\Ozlem\source\News_Project_With_Rss\News_Project_With_Rss\obj\Debug\News_Project_With_Rss.Form1.resources
+C:\Users\Ozlem\source\News_Project_With_Rss\News_Project_With_Rss\obj\Debug\News_Project_With_Rss.Properties.Resources.resources
+C:\Users\Ozlem\source\News_Project_With_Rss\News_Project_With_Rss\obj\Debug\News_Project_With_Rss.csproj.GenerateResource.cache
+C:\Users\Ozlem\source\News_Project_With_Rss\News_Project_With_Rss\obj\Debug\News_Project_With_Rss.csproj.CoreCompileInputs.cache
+C:\Users\Ozlem\source\News_Project_With_Rss\News_Project_With_Rss\obj\Debug\News_Project_With_Rss.exe
+C:\Users\Ozlem\source\News_Project_With_Rss\News_Project_With_Rss\obj\Debug\News_Project_With_Rss.pdb
