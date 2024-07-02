@@ -19,42 +19,32 @@ namespace News_Project_With_Rss
 
         private void button1_Click(object sender, EventArgs e)
         {
-            listBox1.Items.Clear();
-            XmlTextReader xmlRead = new XmlTextReader("http://www.hurriyet.com.tr/rss/anasayfa");
-            while (xmlRead.Read())
-            {
-                if (xmlRead.Name == "title")
-                {
-                    listBox1.Items.Add(xmlRead.ReadString());
-                }
-            }
+            LoadRss("http://www.hurriyet.com.tr/rss/anasayfa");
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            listBox1.Items.Clear();
-            XmlTextReader xmlRead = new XmlTextReader("http://www.mynet.com/haber/rss/sondakika");
-            while (xmlRead.Read())
-            {
-                if (xmlRead.Name == "title")
-                {
-                    listBox1.Items.Add(xmlRead.ReadString());
-                }
-            }
+            LoadRss("http://www.mynet.com/haber/rss/sondakika");
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
+
+            LoadRss("http://www.milliyet.com.tr/rss/rssNew/SonDakikaRss.xml");
+
+        }
+
+        private void LoadRss(string url)
+        {
             listBox1.Items.Clear();
-            XmlTextReader xmlRead = new XmlTextReader("http://www.milliyet.com.tr/rss/rssNew/SonDakikaRss.xml");
-            while (xmlRead.Read())
+            XmlTextReader xmlTextRead = new XmlTextReader(url);
+            while (xmlTextRead.Read())
             {
-                if (xmlRead.Name == "title")
+                if (xmlTextRead.Name == "title")
                 {
-                    listBox1.Items.Add(xmlRead.ReadString());
+                    listBox1.Items.Add(xmlTextRead.ReadString());
                 }
             }
-
         }
     }
 }

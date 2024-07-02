@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ozlem\\source\\repos\\News_Project_With_Rss\\",
+  "WorkspaceRootPath": "C:\\Users\\Ozlem\\source\\repos\\Rss_Projects\\News_Project_With_Rss\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ozlem\\source\\repos\\News_Project_With_Rss\\News_Project_With_Rss\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:News_Project_With_Rss\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{781F0771-0BFF-4040-B4F4-D59DA1C85A39}|News_Project_With_Rss\\News_Project_With_Rss.csproj|c:\\users\\ozlem\\source\\repos\\rss_projects\\news_project_with_rss\\news_project_with_rss\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781F0771-0BFF-4040-B4F4-D59DA1C85A39}|News_Project_With_Rss\\News_Project_With_Rss.csproj|solutionrelative:news_project_with_rss\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ozlem\\source\\repos\\News_Project_With_Rss\\News_Project_With_Rss\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:News_Project_With_Rss\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{781F0771-0BFF-4040-B4F4-D59DA1C85A39}|News_Project_With_Rss\\News_Project_With_Rss.csproj|C:\\Users\\Ozlem\\source\\repos\\Rss_Projects\\News_Project_With_Rss\\News_Project_With_Rss\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{781F0771-0BFF-4040-B4F4-D59DA1C85A39}|News_Project_With_Rss\\News_Project_With_Rss.csproj|solutionrelative:News_Project_With_Rss\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Ozlem\\source\\repos\\News_Project_With_Rss\\News_Project_With_Rss\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem\\source\\repos\\Rss_Projects\\News_Project_With_Rss\\News_Project_With_Rss\\Form1.cs",
               "RelativeDocumentMoniker": "News_Project_With_Rss\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ozlem\\source\\repos\\News_Project_With_Rss\\News_Project_With_Rss\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ozlem\\source\\repos\\Rss_Projects\\News_Project_With_Rss\\News_Project_With_Rss\\Form1.cs",
               "RelativeToolTip": "News_Project_With_Rss\\Form1.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAUwCIAAAAjAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T08:22:34.325Z",
               "EditorCaption": ""
@@ -37,13 +37,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ozlem\\source\\repos\\News_Project_With_Rss\\News_Project_With_Rss\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ozlem\\source\\repos\\Rss_Projects\\News_Project_With_Rss\\News_Project_With_Rss\\Form1.cs",
               "RelativeDocumentMoniker": "News_Project_With_Rss\\Form1.cs",
               "ToolTip": "C:\\Users\\Ozlem\\source\\repos\\News_Project_With_Rss\\News_Project_With_Rss\\Form1.cs [Design]",
-              "RelativeToolTip": "News_Project_With_Rss\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\News_Project_With_Rss\\News_Project_With_Rss\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T08:17:34.114Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-02T08:17:34.114Z"
             }
           ]
         }
